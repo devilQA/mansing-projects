@@ -39,6 +39,10 @@ public 	ProductDiscription disc;
 		 
 		 Assert.assertTrue(disc.getErrorMassge().equals(config.getUploadFileErr()));
 	}
-
+@Test(priority = 2)
+void test2()
+{
+	System.out.println("second test case executed");
+}
 	
 }
