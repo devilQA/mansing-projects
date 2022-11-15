@@ -1,0 +1,5 @@
+com\components\base\BaseTest.class
+com\components\utils\ReadConfig.class
+com\components\pages\LandingPage.class
+com\components\pages\ProductDiscription.class
+com\components\pages\MonitersPage.class
